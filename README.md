@@ -23,7 +23,7 @@ Este README proporciona una guía completa de los comandos más comunes de Git y
     ```
 
 *   **`git config --global init.defaultBranch main`**: Establece la rama predeterminada para los nuevos repositorios como `main`. Esta es una buena práctica para los flujos de trabajo modernos de Git.
-
+``
     ```bash
     git config --global init.defaultBranch main
     ```
